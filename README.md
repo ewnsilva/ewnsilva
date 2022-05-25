@@ -1,4 +1,4 @@
-Olá a todos, bem vindos ao meu perfil!
+Olá, bem vindo ao meu perfil!
 
 - Atualmente estudando Back-End
 - Toda ajuda é bem-vinda!
