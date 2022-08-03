@@ -1,6 +1,6 @@
 Olá, bem vindo ao meu perfil!
 
-- Atualmente estudando Back-End
+- Atualmente estudando React.
 - Toda ajuda é bem-vinda!
 - Dedicado a se tornar Densenvolvedor FullStack.
 - Para mais informações, entre em contato.
