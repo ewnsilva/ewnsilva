@@ -10,7 +10,8 @@ Olá, bem vindo ao meu perfil!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical)
 
-<img src"https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" align="center"></img>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;">
+
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
