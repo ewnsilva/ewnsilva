@@ -13,11 +13,11 @@ Olá, bem vindo ao meu perfil!
 <a href="mailto:ewnsilva@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=ewnsilva&color=blue" alt="Viewed" style={{text-align: 'end'}}/>
 <p></p>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ewnsilva&color=blue" alt="Viewed"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
 <p></p>
