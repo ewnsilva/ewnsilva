@@ -16,8 +16,8 @@ Olá, bem vindo ao meu perfil!
 <p></p>
 </div>
 
-![Viewed](https://komarev.com/ghpvc/?username=ewnsilva&color=blu)
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=ewnsilva&color=blue" alt="Viewed"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
 <p></p>
