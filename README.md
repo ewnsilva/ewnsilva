@@ -15,8 +15,9 @@ Olá, bem vindo ao meu perfil!
 </a>
 <p></p>
 </div>
+
+![Visitor Count](https://github.com/ewnsilva/count.svg)
 <div align="center">
- ![Visitor Count](https://github.com/ewnsilva/count.svg)
 <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
 <p></p>
