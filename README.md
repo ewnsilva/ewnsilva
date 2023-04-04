@@ -6,6 +6,8 @@ Olá, bem vindo ao meu perfil!
 - Toda ajuda é bem-vinda!
 - Dedicado a se tornar Densenvolvedor Full-Stack.
 - Para mais informações, entre em contato.
+
+<div>
 <div align="left">
 <a href="https://www.linkedin.com/in/ericles-willian-nunes-e-silva-263190200/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="" alt="Linkedin"/>
@@ -13,8 +15,11 @@ Olá, bem vindo ao meu perfil!
 <a href="mailto:ewnsilva@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ewnsilva&color=blue" alt="Viewed" style={{text-align: 'end'}}/>
 <p></p>
+</div>
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=ewnsilva&color=blue" alt="Viewed" style="" />
+</div>
 </div>
 
 <div align="center">
