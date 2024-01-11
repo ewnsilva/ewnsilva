@@ -2,7 +2,7 @@
 Olá, bem vindo ao meu perfil!
 
 - Atualmente estou aperfeiçoando e desenvolvendo novas competencias de desenvolvimento Front-End.
-- Iniciando estudos de React Native e Style-Components.
+- Aprofundando conhecimentos sobre Banco de Dados.
 - Toda ajuda é bem-vinda!
 - Dedicado a se tornar Densenvolvedor Full-Stack.
 - Para mais informações, entre em contato.
