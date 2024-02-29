@@ -22,11 +22,12 @@ Olá, bem vindo ao meu perfil!
 </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
+<div align="center" style="width: 100%, display: flex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewnsilva&layout=compact&theme=radical" alt="GitHub Status" style="height: 195px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
 <p></p>
-<div align="center">
+<div align="left">
   <p>Front-End</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -39,9 +40,9 @@ Olá, bem vindo ao meu perfil!
 </div>
 <p></p>
 
-<div align="center">
+<div align="left">
   <p>Programas</p>
-  <div align="center">
+  <div align="left">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" />
@@ -49,7 +50,7 @@ Olá, bem vindo ao meu perfil!
   <img src="" alt="" />
 </div>
 <p></p>
-<div align="center">
+<div align="left">
   <p>Gestão</p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Software" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
@@ -58,7 +59,7 @@ Olá, bem vindo ao meu perfil!
   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="LibreOffice" />
 </div>
 <p></p>
-<div align="center">
+<div align="left">
    <p>Sistemas Operacionais</p>
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
