@@ -1,9 +1,8 @@
 <div align="center"></div>
 Olá, bem vindo ao meu perfil!
 
-- Atualmente estou aperfeiçoando e desenvolvendo novas competencias de desenvolvimento Front-End.
-- Aprofundando conhecimentos sobre Banco de Dados.
-- Toda ajuda é bem-vinda!
+- Desenvolvimento Front-End visando pradronização, aprimoramento e longetividade de soluções tecnológicas.
+- Aprofundando conhecimentos sobre Banco de Dados e tecnologias Back-End.
 - Dedicado a se tornar Densenvolvedor Full-Stack.
 - Para mais informações, entre em contato.
 
