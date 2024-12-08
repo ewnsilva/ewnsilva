@@ -23,7 +23,7 @@ Olá, bem vindo ao meu perfil!
 
 <div align="center" style="width: 100%, display: flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewnsilva&layout=compact&theme=radical" alt="GitHub Status" style="height: 195px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=radical" alt="GitHub Status"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ewnsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Status"/>
 </div>
 <p></p>
 <div align="left">
