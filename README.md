@@ -17,15 +17,7 @@
 ### 🌐 Connect with Me & Profile Traffic
 
 <div align="left">
-  <a href="https://portfolio-ericles-willian.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-005A74?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ericles-willian-nunes-e-silva-263190200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="mailto:ewnsilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-005A74?style=for-the-badge&logo=react&logoColor=61DAFB)](https://portfolio-ericles-willian.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericles-willian-263190200/?locale=en-US) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewnsilva@gmail.com)
 </div>
 
 <br />
